@@ -1,5 +1,5 @@
 /*
- **	Source file: Level1Scene
+ **	Source file: LeftDice.h
  **	Author: Samuli Lehtonen
  ** Creation date: 18.02.2020
  ** Program description: Midterm test - Web Game Programming, C++: 2 dice rolling game,
